@@ -1,0 +1,15 @@
+C:\Users\giovanna.marques\2. Csharp\ProjetoTesseract\ProjetoTesseract\ProjetoTesseract\bin\Debug\net6.0\ProjetoTesseract.exe
+C:\Users\giovanna.marques\2. Csharp\ProjetoTesseract\ProjetoTesseract\ProjetoTesseract\bin\Debug\net6.0\ProjetoTesseract.deps.json
+C:\Users\giovanna.marques\2. Csharp\ProjetoTesseract\ProjetoTesseract\ProjetoTesseract\bin\Debug\net6.0\ProjetoTesseract.runtimeconfig.json
+C:\Users\giovanna.marques\2. Csharp\ProjetoTesseract\ProjetoTesseract\ProjetoTesseract\bin\Debug\net6.0\ProjetoTesseract.dll
+C:\Users\giovanna.marques\2. Csharp\ProjetoTesseract\ProjetoTesseract\ProjetoTesseract\bin\Debug\net6.0\ref\ProjetoTesseract.dll
+C:\Users\giovanna.marques\2. Csharp\ProjetoTesseract\ProjetoTesseract\ProjetoTesseract\bin\Debug\net6.0\ProjetoTesseract.pdb
+C:\Users\giovanna.marques\2. Csharp\ProjetoTesseract\ProjetoTesseract\ProjetoTesseract\obj\Debug\net6.0\ProjetoTesseract.csproj.AssemblyReference.cache
+C:\Users\giovanna.marques\2. Csharp\ProjetoTesseract\ProjetoTesseract\ProjetoTesseract\obj\Debug\net6.0\ProjetoTesseract.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\giovanna.marques\2. Csharp\ProjetoTesseract\ProjetoTesseract\ProjetoTesseract\obj\Debug\net6.0\ProjetoTesseract.AssemblyInfoInputs.cache
+C:\Users\giovanna.marques\2. Csharp\ProjetoTesseract\ProjetoTesseract\ProjetoTesseract\obj\Debug\net6.0\ProjetoTesseract.AssemblyInfo.cs
+C:\Users\giovanna.marques\2. Csharp\ProjetoTesseract\ProjetoTesseract\ProjetoTesseract\obj\Debug\net6.0\ProjetoTesseract.csproj.CoreCompileInputs.cache
+C:\Users\giovanna.marques\2. Csharp\ProjetoTesseract\ProjetoTesseract\ProjetoTesseract\obj\Debug\net6.0\ProjetoTesseract.dll
+C:\Users\giovanna.marques\2. Csharp\ProjetoTesseract\ProjetoTesseract\ProjetoTesseract\obj\Debug\net6.0\ref\ProjetoTesseract.dll
+C:\Users\giovanna.marques\2. Csharp\ProjetoTesseract\ProjetoTesseract\ProjetoTesseract\obj\Debug\net6.0\ProjetoTesseract.pdb
+C:\Users\giovanna.marques\2. Csharp\ProjetoTesseract\ProjetoTesseract\ProjetoTesseract\obj\Debug\net6.0\ProjetoTesseract.genruntimeconfig.cache
